@@ -1,4 +1,13 @@
 # Pentesting-SOC-analysis-
-Penetration testings and log analysis
 
-Pentesting
+---
+
+This section is for
+
+---
+
+## Penetration Testing, SOC Analysis,
+
+---
+
+## GRC Governance, Risk and Compliance. (GRC Gobernanza, Riesgo y Cumplimiento.)
