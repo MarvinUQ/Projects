@@ -8,4 +8,4 @@ This section is for
 
 ---
 
-## GRC Governance, Risk and Compliance. (GRC Gobernanza, Riesgo y Cumplimiento.)
+## [GRC Governance, Risk and Compliance. (GRC Gobernanza, Riesgo y Cumplimiento.)](https://github.com/MarvinUQ/Projects/blob/main/GRC/Readme.md)
