@@ -1,8 +1,8 @@
 [<- GO BACK TO PORTFOLIO (REGRESAR)](https://github.com/MarvinUQ/MUQ-CyberSecurity-Portfolio)
 
-# Pentesting-SOC-analysis-
+# Projects
 
-This section is for
+This section is for the different projects I'll work on as part of my learning process. (Esta sección es para los proyectos en los que iré trabajando durante mi proceso de aprendizaje.)
 
 ---
 
