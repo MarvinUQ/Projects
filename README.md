@@ -6,7 +6,7 @@ This section is for the different projects I'll work on as part of my learning p
 
 ---
 
-## [Penetration Testing, SOC Analysis,](https://github.com/MarvinUQ/Projects/blob/main/Pentesting_SOC/Readme.md)
+## [Penetration Testing/SOC Analysis](https://github.com/MarvinUQ/Projects/blob/c05aaa9726a4c6a7a3baf542a4e10fec73cd68c0/Pentesting_SOC/README.md)
 
 ---
 
