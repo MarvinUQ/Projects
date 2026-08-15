@@ -14,4 +14,14 @@ ES: Practicas con herramientas de penetración, búsqueda de vulnerabilidades y 
 
 ---
 
+## [SOC Analysis.](https://github.com/MarvinUQ/Projects/blob/main/SOC%20Analysis/README.md)
+
+
+
+ES: Practicas con herramientas para leer registros, eventos, alertas y otras señales que indiquen vulnerabilidades, fallas y amenazas que pueden poner en riesgo el sistema. 
+
+---
+
 ## [GRC Governance, Risk and Compliance. (GRC Gobernanza, Riesgo y Cumplimiento.)](https://github.com/MarvinUQ/Projects/blob/main/GRC/Readme.md)
+
+---
