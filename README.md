@@ -6,11 +6,11 @@ This section is for the different projects I'll work on as part of my learning p
 
 ---
 
-## [Penetration Testing](https://github.com/MarvinUQ/Projects/blob/main/Pentesting/README.md)
+## [Pentesting.](https://github.com/MarvinUQ/Projects/blob/main/Pentesting/README.md)
 
-Penetration tool practices.
+Practices with penetration tools, looking for and exploiting vulnerabilities.
 
-ES: Practicas de herramientas de penetración.
+ES: Practicas con herramientas de penetración, búsqueda de vulnerabilidades y como explotarlas.
 
 ---
 
