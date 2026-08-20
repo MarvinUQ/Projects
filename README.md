@@ -13,13 +13,13 @@ This section is for the different projects I'll work on as part of my learning p
 [IAM] = Identity & Access Management — how access is requested, approved, granted, reviewed, and removed.
 (ES:) Gestión de Identidad y Acceso — cómo se solicita, aprueba, otorga, revisa y elimina el acceso.
 
-[ITO]=
+[ITO] = IT Operations — building, configuring, and maintaining the lab's infrastructure. (ES:) Operaciones de TI — construcción, configuración y mantenimiento de la infraestructura del laboratorio.
 
-[PEN]=
+[PEN] = Pentesting — offensive, black-box testing to find and exploit vulnerabilities. (ES:) Pruebas de penetración — pruebas ofensivas de caja negra para encontrar y explotar vulnerabilidades.
 
-[SOC]=
+[SOC] = SOC / Blue Team — detecting, analyzing, and reporting on what happened from the defender's side. (ES:) SOC / Equipo Azul — detección, análisis y reporte de lo ocurrido desde el lado del defensor.
 
-[GRC]=
+[GRC] = Governance, Risk & Compliance — policies, standards, and documentation mapped to security frameworks. (ES:) Gobernanza, Riesgo y Cumplimiento — políticas, estándares y documentación mapeada a marcos de referencia.
 
 ---
 
