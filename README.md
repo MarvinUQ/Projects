@@ -11,8 +11,7 @@ This section is for the different projects I'll work on as part of my learning p
 - Since a full project will be the sum of it's different domain parts this flags will be used to identify specific parts of the resume and as links to the document/report with more information.
 
 [IAM]=Identity & Access Management — how access is requested, approved, granted, reviewed, and removed.
-
-ES: Gestión de Identidad y Acceso — cómo se solicita, aprueba, otorga, revisa y elimina el acceso.
+(ES:) Gestión de Identidad y Acceso — cómo se solicita, aprueba, otorga, revisa y elimina el acceso.
 
 [ITO]=
 
