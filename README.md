@@ -39,6 +39,6 @@ ES: Practicas con herramientas para leer registros, eventos, alertas y otras se√
 
 ---
 
-## [GRC Governance, Risk and Compliance. (GRC Gobernanza, Riesgo y Cumplimiento.)](https://github.com/MarvinUQ/Projects/blob/main/GRC/Readme.md)
+## [GRC Governance, Risk and Compliance. (GRC Gobernanza, Riesgo y Cumplimiento.)](https://github.com/MarvinUQ/Projects/blob/main/GRC/README.md)
 
 ---
