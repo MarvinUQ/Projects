@@ -6,6 +6,22 @@ This section is for the different projects I'll work on as part of my learning p
 
 ---
 
+## Resumed Projects.
+
+- Since a full project will be the sum of it's different domain parts this flags will be used to identify specific parts of the resume and as links to the document/report with more information.
+
+[IAM]=
+
+[ITO]=
+
+[PEN]=
+
+[SOC]=
+
+[GRC]=
+
+---
+
 ## [Pentesting.](https://github.com/MarvinUQ/Projects/blob/main/Pentesting/README.md)
 
 Practices with penetration tools, looking for and exploiting vulnerabilities.
