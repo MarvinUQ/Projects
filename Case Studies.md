@@ -8,4 +8,6 @@
 according to industry standards, that can protect the company's assets, users and company's personnel's privacy while complied with government requirements and laws. This are some of the recomendatorios, rules and policies the IT Operations department will implement
 in HLSLC's systems:
 
+Identity and naming standards, Authentication requirements, Least privilege and provisioning, Approval authority and segregation of duties, Access review, Deprovisioning.
+
 ---
