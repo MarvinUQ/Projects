@@ -1,4 +1,6 @@
-[<- GO BACK TO PORTFOLIO (REGRESAR)](https://github.com/MarvinUQ/MUQ-CyberSecurity-Portfolio) | [<- GO BACK TO PROJECTS (REGRESAR)](https://github.com/MarvinUQ/Projects)
+[<- GO BACK TO PORTFOLIO (REGRESAR)](https://github.com/MarvinUQ/MUQ-CyberSecurity-Portfolio)
+
+---
 
 # Projects
 
