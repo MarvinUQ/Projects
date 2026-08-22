@@ -6,7 +6,7 @@ This section is for the different projects I'll work on as part of my learning p
 
 ---
 
-## [Resumed Projects.](https://github.com/MarvinUQ/Projects/blob/main/Resumed%20Projects%20All%20Domains%20Joined.md)
+## [Case Studies.](https://github.com/MarvinUQ/Projects/blob/main/Resumed%20Projects%20All%20Domains%20Joined.md)
 
 - Since a full project it's composed of several different domain practices, this flags will be used to identify the specific domain that part of the resume belongs to, and will link to the domain specific full document/report with more information.
 
