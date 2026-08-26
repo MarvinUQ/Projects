@@ -4,4 +4,4 @@
 
 ---
 
-### - Building Active Directory Organizational Units, Groups and Users on lab.local.
+### - Building Active Directory: Organizational Units, Groups and Users on lab.local.
